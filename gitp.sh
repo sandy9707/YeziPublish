@@ -1,4 +1,4 @@
-#!/usr/local/bin/zsh
+#!/bin/zsh
 cd '/Users/sandy/Nutstore Files/Nutstore/YeziPublish'
 git pull
 git add .
