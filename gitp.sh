@@ -1,5 +1,5 @@
 #!/bin/zsh
-cd '/Users/sandy/Nutstore Files/Nutstore/YeziPublish'
+cd '/Users/sandy/ResilioSync/git/YeziPublish'
 git pull
 git add .
 commitTime=`date +"%Y-%m-%d %H-%M-%S"`
