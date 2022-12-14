@@ -1,7 +1,11 @@
-#!/bin/zsh
+# /bin/zsh
+
 cd '/Users/sandy/ResilioSync/git/YeziPublish'
-git pull
+
+# git pull
+
 git add .
 commitTime=`date +"%Y-%m-%d %H-%M-%S"`
 git commit -a -m "${commitTime}"
 git push origin main
+echo "Git push completed! "
